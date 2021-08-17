@@ -1,0 +1,14 @@
+# Hashes of file build rules.
+ba9320e30dbd2963a53ca64ae301e1e5 EMNIST_int8/CMakeFiles/ELF2UF2Build
+d8f1d214d333a7e9d580d7591463dadc EMNIST_int8/CMakeFiles/ELF2UF2Build-complete
+518eb974b3dce39281c6c1fc9db771f0 EMNIST_int8/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build
+679c023eebd84f1f52db0e54d0ddcec7 EMNIST_int8/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure
+647446120ad1c85c190feb85c13d4ada EMNIST_int8/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download
+4c1f632f6f88f7d749ee827aa52f896d EMNIST_int8/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install
+12eea5b8443b2aa572ee5267f50c9994 EMNIST_int8/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir
+5b6d5e1747199916ae4d6fe37bdc16c4 EMNIST_int8/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch
+04d44e28c525fbf93d5087e6daa31af1 EMNIST_int8/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update
+f60ab998e20d0380d51fd0b2399a32f6 pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_bin
+f60ab998e20d0380d51fd0b2399a32f6 pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm
+d14d1acbddb2caba5e0d8140b19d0b8b pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
+a52157308763b0541419a1d64296842b pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
